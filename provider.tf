@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "remote" {
-    organization = "deop-ays"
+    organization = "ays11"
 
     workspace {
         name = "test_repo"
